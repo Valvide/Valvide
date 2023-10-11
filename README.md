@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm simon</h1>
 <h3 align="center">Full-stack developer and web-designer</h3>
 
-- 🔭 I’m currently working as a freelancer and on my own projects with **Pharmacies **
+- 🔭 I’m currently working as a freelancer and on my own projects on **Inventory System**
 
 - 🌱 I’m currently learning **Nest for back-end**
 
