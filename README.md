@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as a freelancer and on my own projects with **Pharmacies **
 
-- 🌱 I’m currently learning **Python for Data-Science**
+- 🌱 I’m currently learning **Nest for back-end**
 
-- 💬 Ask me about **React,node,express,firebase,mongoDB,strapi**
+- 💬 Ask me about **Full-stack development and web development (Mern)& React-native as well **
 
 - 📫 How to reach me **semeongizachew69@gmail.com**
 
