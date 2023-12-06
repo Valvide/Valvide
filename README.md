@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm simon</h1>
-<h3 align="center">Full-stack developer and web-designer</h3>
+<h3 align="center">Full-stack developer and Solution Architect for AWS /h3>
 
 - 🔭 I’m currently working as a freelancer and on my own projects on **Inventory System**
 
-- 🌱 I’m currently learning **Nest for back-end**
+- 🌱 I’m currently learning **Distributed system for Microservice**
 
-- 💬 Ask me about **Full-stack development and web development (Mern)& React-native as well **
+- 💬 Ask me about **Full-stack development and web development (Mern)& AWS **
 
 - 📫 How to reach me **semeongizachew69@gmail.com**
 
