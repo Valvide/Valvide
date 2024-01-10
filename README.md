@@ -3,11 +3,7 @@
 <h3 align="center">Back to 💖 github from AWS codeCommit </h3>
 
 
-- 🔭 I’m currently working as a freelancer and on my own projects on **Inventory System**
 
-- 🌱 I’m currently learning **Distributed system for Microservice**
-
-- 💬 Ask me about **Full-stack development and web development (Mern)& AWS **
 
 - 📫 How to reach me **semeongizachew69@gmail.com**
 
