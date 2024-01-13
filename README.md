@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Chapa SDK and with Lukas on friendurance**
 
-- 👨‍💻 All of my public projects are available at [on this Repo](on this Repo)
+- 👨‍💻 All of my public projects are available at [ this Repo](on this Repo)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valvide&show_icons=true&locale=en&layout=compact" alt="valvide" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valvide&show_icons=true&locale=en" alt="valvide" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valvide&" alt="valvide" /></p>
 
