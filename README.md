@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 👯 I’m looking to collaborate on **Chapa SDK and with Lukas on friendurance**
+- 👯 I’m looking and am collaborating on **Chapa SDK and with Lukas on friendurance**
 
-- 👨‍💻 All of my public projects are available at [ this Repo](on this Repo)
+- 👨‍💻 All of my public projects are available at on this Repo)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
