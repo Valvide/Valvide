@@ -5,19 +5,18 @@
 
 - 🔭 I’m currently working on **Too many things**
 
-- 🌱 I’m currently learning **GO**
+
 
 - 👯 I’m looking and am collaborating on **Chapa SDK and with Lukas on friendurance**
 
-- 👨‍💻 All of my public projects are available at on this Repo)
+- 👨‍💻 All of my public projects are available at on this Repo
 
-- 📝 I regularly write articles on [Medium](Medium)
 
 - 💬 Ask me about **Full-stack using (Mern) & Next.js ,AWS and Postgress and MySql if your using ORM😁**
 
 - 📫 How to reach me **semeongizachew69@gmail.com**
 
-- ⚡ Fun fact **I will change the world**
+- ⚡ Fun fact **I will make a little change in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
