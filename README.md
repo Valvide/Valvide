@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm simon</h1>
-<h3 align="center">Full-stack developer and Solution Architect for AWS </h3>
+<h3 align="center">Full-stack developer and Solution Architect for AWS services </h3>
 Software engineer with 4+ years of experience.  Worked for innovative startups to large enterprises as IT support and award-winning agencies. Adept at both remote and in-office settings, I'm known for taking ownership and exceeding deadlines.My passion lies in full-stack development,  crafting web experiences, engaging mobile apps, and  APIs. integrate and contribute across project phases.
 
 
