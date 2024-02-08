@@ -25,7 +25,7 @@ Besides developing, I also run a Youtube  and TikTok Channel.
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 - 👯 I’m looking and am collaborating on **Chapa SDK and with Lukas on friendurance**
-- ⚡ Fun fact **I will make a little change in the world**
+- ⚡ Fun fact **I don't wear glass**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
