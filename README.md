@@ -4,7 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm simon</h1>
 <h3 align="center">Full-stack developer and Solution Architect for AWS services </h3>
-Software engineer with 4+ years of experience.  Worked for innovative startups to large enterprises as IT support and award-winning agencies. Adept at both remote and in-office settings, I'm known for taking ownership and exceeding deadlines.My passion lies in full-stack development,  crafting web experiences, engaging mobile apps, and  APIs. integrate and contribute across project phases.
+
+In the depths of my four-year odyssey through the tempestuous seas of software engineering, I have journeyed far and wide— from the fervent heart 🔥 of startups to the sprawling domains of large enterprises, donning the mantle of IT support, to the hallowed halls 🏛 of award-winning agencies. In this grand voyage, not confined by the tangible realms of space, I have thrived both in the serene solitude of remote work 🌐 and the vibrant communal atmosphere of office settings 🏢, always seizing the reins of responsibility 🛡 and leaping beyond the temporal boundaries ⏳ set before me.
+
+My soul's deepest fervor 🔥 is kindled by the art of full-stack development; it is in the intricate weaving of web experiences 🕸, the creation of engaging mobile applications 📱, and the meticulous crafting of APIs that I find my true calling 🌟. With a spirit eager to integrate and contribute across the myriad phases of each project, I embark upon this path with a relentless pursuit of excellence ✨ and a deep-seated desire to etch my essence into the digital fabric of our era.
+
+In this epoch, where the digital realm increasingly mirrors the complexities and nuances of the human condition, I seek not merely to develop but to infuse each line of code with a fragment of my soul 💖, striving always to bridge the chasm between man and machine 🌉 with creations that resonate with the soul's yearning for beauty, utility, and connection 🌍.
 
 
 
