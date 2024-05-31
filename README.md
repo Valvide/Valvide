@@ -12,20 +12,13 @@ My primary passion is full-stack development, where I enjoy creating complete we
 In today's world, where digital technology plays a significant role in our lives, I strive not only to develop software but also to add purpose and connection to my work. My goal is to bridge the gap between technology and humanity, creating solutions that are both functional and meaningful.
 
 Key Achievements:
-
-Successfully completed 8 projects, including web applications and mobile apps
-
-Improved application performance by up to 40% in several projects
-
-Enhanced user engagement by 30% through innovative designs
-
-Delivered 100% of projects on time and within budget
-
-Reduced bug incidence by 25% through rigorous testing and code reviews
-
-Increased user satisfaction ratings by 20% with user-friendly interfaces
-
-My expertise in full-stack development, combined with my commitment to excellence and a user-focused approach, makes me a valuable asset in the field of software engineering
+✅ Successfully completed 8 projects, including web applications and mobile apps
+🚀 Improved application performance by up to 40% in several projects
+💡 Enhanced user engagement by 30% through innovative designs
+⏰ Delivered 100% of projects on time and within budget
+🐞 Reduced bug incidence by 25% through rigorous testing and code reviews
+👍 Increased user satisfaction ratings by 20% with user-friendly interfaces
+My expertise in full-stack development, combined with my commitment to excellence and a user-focused approach, makes me a valuable asset in the field of software engineering.
 
 
 ## 📚 Writing and Connecting 
