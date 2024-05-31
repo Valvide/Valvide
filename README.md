@@ -13,11 +13,17 @@ In today's world, where digital technology plays a significant role in our lives
 
 Key Achievements:
 ✅ Successfully completed 8 projects, including web applications and mobile apps
+
 🚀 Improved application performance by up to 40% in several projects
+
 💡 Enhanced user engagement by 30% through innovative designs
+
 ⏰ Delivered 100% of projects on time and within budget
+
 🐞 Reduced bug incidence by 25% through rigorous testing and code reviews
+
 👍 Increased user satisfaction ratings by 20% with user-friendly interfaces
+
 My expertise in full-stack development, combined with my commitment to excellence and a user-focused approach, makes me a valuable asset in the field of software engineering.
 
 
